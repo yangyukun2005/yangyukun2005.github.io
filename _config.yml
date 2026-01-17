@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "杨雨坤的个人主页 / Queens Yukun Yang's Homepage"
+title                    : "杨雨坤的主页 / Queens's Homepage"
 title_separator          : "-"
 name                     : &name "Queens Yukun Yang"
 description              : &description "Queens Yukun Yang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
