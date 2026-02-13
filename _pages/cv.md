@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Management Infomation Systems, Beijing Institute of Technology, 2023 - 2027 
+* B.S. in Management Infomation Systems, School of Management, Beijing Institute of Technology, 2023 - 2027  
+  北京理工大学 管理学院 信息管理与信息系统 学士，2023 - 2027
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -38,6 +40,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+-->
 
 Publications
 ======
@@ -45,6 +48,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -60,3 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
