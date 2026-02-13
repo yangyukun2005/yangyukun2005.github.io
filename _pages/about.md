@@ -1,6 +1,8 @@
 ---
 permalink: /
-title: "欢迎来到杨雨坤的个人主页 | Welcome to Queens Yukun Yang's Homepage"
+title: |
+  欢迎来到杨雨坤的个人主页  
+  Welcome to Queens Yukun Yang's Homepage
 author_profile: true
 redirect_from: 
   - /about/
