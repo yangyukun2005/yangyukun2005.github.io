@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Management Infomation Systems, School of Management, Beijing Institute of Technology, 2023 - 2027  
-  北京理工大学 管理学院 信息管理与信息系统 学士，2023 - 2027
+* 北京理工大学 管理学院 信息管理与信息系统 学士，2023 - 2027  
+  B.S. in Management Infomation Systems, School of Management, Beijing Institute of Technology, 2023 - 2027
 
 <!--
 Work experience
