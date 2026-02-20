@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "简历 | CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-教育经历 \| Education
-======
+### 教育经历 \| Education
 * 北京理工大学 管理学院 信息管理与信息系统 学士，2023 - 2027  
   B.S. in Management Infomation Systems, School of Management, Beijing Institute of Technology, 2023 - 2027
 
 <!--
-Work experience
-======
+### Work experience
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -32,8 +30,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
+### Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -42,26 +39,22 @@ Skills
 * Skill 3
 -->
 
-学术成果 \| Publications
-======
+### 学术成果 \| Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 <!--
-Talks
-======
+### Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
+### Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+### Service and leadership
 * Currently signed in to 43 different slack teams
 -->
