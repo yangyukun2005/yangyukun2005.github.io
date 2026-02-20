@@ -85,13 +85,13 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: '书籍 | Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: '期刊论文 | Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: '会议论文 | Conference Papers'
   Working_Papers:
-    title: 'Working Papers'
+    title: '工作论文 | Working Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
