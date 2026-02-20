@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-[学术成果/Publications](https://yangyukun2005.github.io/publications/) \| [博客/Blog Posts](https://yangyukun2005.github.io/year-archive/) \| [简历/CV](https://yangyukun2005.github.io/cv/)
+### [学术成果/Publications](https://yangyukun2005.github.io/publications/) \| [博客/Blog Posts](https://yangyukun2005.github.io/year-archive/) \| [简历/CV](https://yangyukun2005.github.io/cv/)
 
-#### 关于我 | About Me
+### 关于我 | About Me
 我叫杨雨坤，于2005年8月14日出生于中国江西省吉安市。我现在正就读位于北京理工大学（于2023年8月入学，计划于2027年7月毕业）。我目前的研究兴趣主要为公司金融、实证资产定价，另外我也有一些管理信息系统的相关研究经历。  
 我的邮箱是: yangyukun2005@163.com  
 

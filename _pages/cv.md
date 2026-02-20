@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历 \| Education
 ======
 * 北京理工大学 管理学院 信息管理与信息系统 学士，2023 - 2027  
   B.S. in Management Infomation Systems, School of Management, Beijing Institute of Technology, 2023 - 2027
@@ -42,7 +42,7 @@ Skills
 * Skill 3
 -->
 
-Publications
+学术成果 \| Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
