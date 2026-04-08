@@ -27,6 +27,11 @@
   }
 }
 
+.archive > h2 {
+  font-size: 1rem;
+  margin-top: 1.5em;
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
@@ -42,6 +47,7 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+  font-size: 1em; /* 调整标题字体大小为 1em (约16px)，比默认的1.25em小 */
 
   a + a {
     opacity: 0.5;
@@ -59,7 +65,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: 0.625em; /* 调整摘要字体大小为 0.625em (约10px)，比原来的0.6875em小 */
 
   & + p {
     text-indent: 0;
@@ -121,7 +127,7 @@
 
   .archive__item-title {
     margin-top: 0.5em;
-    font-size: $type-size-5;
+    font-size: $type-size-7;
   }
 
   .archive__item-excerpt {
@@ -139,14 +145,14 @@
     margin-left: 0; /* reset before mixin does its thing*/
     margin-right: 0; /* reset before mixin does its thing*/
     @include gallery(2.5 of 10);
-
+  
     .archive__item-teaser {
       max-height: 120px;
     }
 
     .archive__item-excerpt {
       display: block;
-      font-size: $type-size-6;
+      font-size: 0.625em; 
     }
   }
 }
